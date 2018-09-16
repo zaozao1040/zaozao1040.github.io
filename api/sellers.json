@@ -1,0 +1,429 @@
+{
+  "ret": true,
+  "data": {
+    "sellers": [
+      {
+        "name": "可可小吃(干将西路店)",
+        "description": "蜂鸟专送",
+        "type": "奶茶果汁",
+        "deliveryTime": 38,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 20,
+        "deliveryPrice": 4,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "bulletin": "欢迎光临，用餐高峰期请提前下单，谢谢。",
+        "supports": [
+          {
+            "type": 0,
+            "description": "在线支付满28减5"
+          },
+          {
+            "type": 1,
+            "description": "VC无限橙果汁全场8折"
+          },
+          {
+            "type": 2,
+            "description": "单人精彩套餐"
+          },
+          {
+            "type": 3,
+            "description": "该商家支持发票,请下单写好发票抬头"
+          },
+          {
+            "type": 4,
+            "description": "已加入“外卖保”计划,食品安全保障"
+          }
+        ],
+        "avatar": "//fuss10.elemecdn.com/a/e4/32bb1fe68521f3999074912b384a0jpeg.jpeg?imageMogr/format/webp/thumbnail/150x/",
+        "pics": [
+          "//fuss10.elemecdn.com/1/a1/9656402eac38a71a3465e2fb67c5bjpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/",
+          "//fuss10.elemecdn.com/f/72/26b6e5dcd7c0ded1ac36810aa5d07jpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/"
+        ],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      },
+      {
+        "name": "福建美食",
+        "description": "蜂鸟专送",
+        "type": "家常菜",
+        "deliveryTime": 38,
+        "score": 4.4,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 30,
+        "deliveryPrice": 2,
+        "ratingCount": 24,
+        "sellCount": 940,
+        "bulletin": "欢迎光临，用餐高峰期请提前下单，谢谢。",
+        "supports": [
+          {
+            "type": 4,
+            "description": "已加入“外卖保”计划,食品安全保障"
+          }
+        ],
+        "avatar": "//fuss10.elemecdn.com/3/64/5e214bc7ac40914d57ca9f7c50feajpeg.jpeg?imageMogr/format/webp/thumbnail/150x/",
+        "pics": [
+          "//fuss10.elemecdn.com/9/ea/f7991842219b333bc2b3bd55ee374jpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/",
+          "//fuss10.elemecdn.com/a/a2/05fc18388d07a1bfa05099c4ca7ebjpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/"
+        ],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      },
+      {
+        "name": "粥品香坊",
+        "description": "蜂鸟专送",
+        "type": "养生粥",
+        "deliveryTime": 38,
+        "score": 4.5,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 24,
+        "deliveryPrice": 4,
+        "ratingCount": 24,
+        "sellCount": 60,
+        "bulletin": "粥品香坊其烹饪粥料的秘方源于中国千年古法，在融和现代制作工艺，由世界烹饪大师屈浩先生领衔研发。坚守纯天然、0添加的良心品质深得消费者青睐，发展至今成为粥类的引领品牌。是2008年奥运会和2013年园博会指定餐饮服务商。",
+        "supports": [
+          {
+            "type": 2,
+            "description": "单人精彩套餐"
+          },
+          {
+            "type": 3,
+            "description": "该商家支持发票,请下单写好发票抬头"
+          },
+          {
+            "type": 4,
+            "description": "已加入“外卖保”计划,食品安全保障"
+          }
+        ],
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/seller_avatar_256px.jpg",
+        "pics": [
+          "https://p0.meituan.net/deal/0c7becdc6ad3d73252561503be6b37d486141.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p1.meituan.net/deal/9c5113b89f9d98fc31387d5eac8cfef690889.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p1.meituan.net/deal/9ddd4a8c6417220175b5fe9f0a7aebcf101983.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p0.meituan.net/deal/c168d668e6a07177871b888b26926b0489317.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p0.meituan.net/deal/26ba8002ac0532ce8f65e83f771a584867203.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        ],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      },
+      {
+        "name": "丰源果品大卖场",
+        "description": "蜂鸟专送",
+        "type": "水果",
+        "deliveryTime": 38,
+        "score": 4.6,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 40,
+        "deliveryPrice": 2,
+        "ratingCount": 24,
+        "sellCount": 95,
+        "bulletin": "欢迎光临，用餐高峰期请提前下单，谢谢。",
+        "supports": [
+          {
+            "type": 2,
+            "description": "单人精彩套餐"
+          },
+          {
+            "type": 3,
+            "description": "该商家支持发票,请下单写好发票抬头"
+          },
+          {
+            "type": 4,
+            "description": "已加入“外卖保”计划,食品安全保障"
+          }
+        ],
+        "avatar": "//fuss10.elemecdn.com/1/60/703ef2b11c2e4403c14394b49cbeajpeg.jpeg?imageMogr/format/webp/thumbnail/150x/",
+        "pics": [
+          "//fuss10.elemecdn.com/b/66/253bb4aeeb68ef22f7f0a7e129824jpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/",
+          "//fuss10.elemecdn.com/6/1a/b4087cafe6e21b2fe97ff9703442cjpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/"
+        ],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      },
+      {
+        "name": "惠民蔬菜",
+        "description": "蜂鸟专送",
+        "type": "果蔬",
+        "deliveryTime": 38,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 20,
+        "deliveryPrice": 4,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "bulletin": "欢迎光临，用餐高峰期请提前下单，谢谢。",
+        "supports": [
+          {
+            "type": 0,
+            "description": "在线支付满18减3"
+          }
+        ],
+        "avatar": "//fuss10.elemecdn.com/8/95/dccfeab56bcbef74a71c196ef9af1jpeg.jpeg?imageMogr/format/webp/thumbnail/150x/",
+        "pics": [
+          "//fuss10.elemecdn.com/0/9a/6d1d14b42a782b6c87bb6197272c9jpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/",
+          "//fuss10.elemecdn.com/0/56/15448181060dd10c4063dc8f03d3ajpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/"
+        ],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      },
+      {
+        "name": "美丽契约（心竹鲜花店）",
+        "description": "蜂鸟专送",
+        "type": "鲜花",
+        "deliveryTime": 38,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 20,
+        "deliveryPrice": 2,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "bulletin": "欢迎光临，用餐高峰期请提前下单，谢谢。",
+        "supports": [
+          {
+            "type": 3,
+            "description": "该商家支持发票,请下单写好发票抬头"
+          }
+        ],
+        "avatar": "//fuss10.elemecdn.com/a/43/c213734870cb0f93e8ef68293a811png.png?imageMogr/format/webp/thumbnail/150x/",
+        "pics": [],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      },
+      {
+        "name": "舞兰苏州心竹鲜花店",
+        "description": "蜂鸟专送",
+        "type": "鲜花",
+        "deliveryTime": 38,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 24,
+        "deliveryPrice": 1,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "bulletin": "欢迎光临，用餐高峰期请提前下单，谢谢。",
+        "supports": [
+          {
+            "type": 4,
+            "description": "已加入“外卖保”计划,食品安全保障"
+          }
+        ],
+        "avatar": "//fuss10.elemecdn.com/6/f5/f5ed49a4ea5cdb69211d861ded29bjpeg.jpeg?imageMogr/format/webp/thumbnail/150x/",
+        "pics": [
+          "https://p0.meituan.net/deal/0c7becdc6ad3d73252561503be6b37d486141.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p1.meituan.net/deal/9c5113b89f9d98fc31387d5eac8cfef690889.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p1.meituan.net/deal/9ddd4a8c6417220175b5fe9f0a7aebcf101983.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p0.meituan.net/deal/c168d668e6a07177871b888b26926b0489317.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p0.meituan.net/deal/26ba8002ac0532ce8f65e83f771a584867203.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        ],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      },
+      {
+        "name": "震源生煎（姑香苑店）",
+        "description": "蜂鸟专送",
+        "type": "早点",
+        "deliveryTime": 38,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 50,
+        "deliveryPrice": 2,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "bulletin": "欢迎光临，用餐高峰期请提前下单，谢谢。",
+        "supports": [
+          {
+            "type": 3,
+            "description": "该商家支持发票,请下单写好发票抬头"
+          }
+        ],
+        "avatar": "//fuss10.elemecdn.com/0/42/d7e38372461e09a572e2cb98138d8jpeg.jpeg?imageMogr/format/webp/thumbnail/150x/",
+        "pics": [
+          "//fuss10.elemecdn.com/b/e5/8dc5a302d4d970ee2ffb25250c238jpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/",
+          "//fuss10.elemecdn.com/8/14/f6d5b0d2c468bbc7cd0c47b948636jpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/"
+        ],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      },
+      {
+        "name": "海客餐饮(体育中心店)",
+        "description": "蜂鸟专送",
+        "type": "中式餐饮",
+        "deliveryTime": 38,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 20,
+        "deliveryPrice": 4,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "bulletin": "欢迎光临，用餐高峰期请提前下单，谢谢。",
+        "supports": [
+        ],
+        "avatar": "//fuss10.elemecdn.com/4/8c/a959c6d082c425aa40b0e6617bccfjpeg.jpeg?imageMogr/format/webp/thumbnail/150x/",
+        "pics": [
+          "//fuss10.elemecdn.com/4/28/c0e0ff8b548bfba655f1fff4c5fd6jpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/",
+          "//fuss10.elemecdn.com/0/8b/6edfddca894667e98bdcd0ddb9be6jpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/",
+          "//fuss10.elemecdn.com/3/82/187d5e8791281884bdf493462e3fdjpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/"
+        ],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      },
+      {
+        "name": "味全楼",
+        "description": "蜂鸟专送",
+        "type": "中式餐饮",
+        "deliveryTime": 38,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 20,
+        "deliveryPrice": 4,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "bulletin": "欢迎光临，用餐高峰期请提前下单，谢谢。",
+        "supports": [
+          {
+            "type": 0,
+            "description": "在线支付满28减5"
+          },
+          {
+            "type": 4,
+            "description": "已加入“外卖保”计划,食品安全保障"
+          }
+        ],
+        "avatar": "//fuss10.elemecdn.com/f/b6/89f1fe1b5a41bd4f951ec830e16c3png.png?imageMogr/format/webp/thumbnail/150x/",
+        "pics": [
+          "//fuss10.elemecdn.com/7/a0/d07aa08e7b5d669c36821708877fajpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/",
+          "//fuss10.elemecdn.com/1/26/85b4c993f1dcd81a841ddc7aff19djpeg.jpeg?imageMogr/format/webp/thumbnail/!200x200r/gravity/Center/crop/200x200/"
+        ],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      },
+      {
+        "name": "冒蜀黍冒菜(塔园路店)",
+        "description": "蜂鸟专送",
+        "type": "中式餐饮",
+        "deliveryTime": 38,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 24,
+        "deliveryPrice": 2,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "bulletin": "欢迎光临，用餐高峰期请提前下单，谢谢。",
+        "supports": [
+        ],
+        "avatar": "//fuss10.elemecdn.com/7/18/2a3dc529856823cc070d42146b9c7jpeg.jpeg?imageMogr/format/webp/thumbnail/150x/",
+        "pics": [
+          "https://p0.meituan.net/deal/0c7becdc6ad3d73252561503be6b37d486141.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p1.meituan.net/deal/9c5113b89f9d98fc31387d5eac8cfef690889.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p1.meituan.net/deal/9ddd4a8c6417220175b5fe9f0a7aebcf101983.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p0.meituan.net/deal/c168d668e6a07177871b888b26926b0489317.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p0.meituan.net/deal/26ba8002ac0532ce8f65e83f771a584867203.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        ],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      },
+      {
+        "name": "妻捞夫烫(石路店)",
+        "description": "蜂鸟专送",
+        "type": "麻辣烫",
+        "deliveryTime": 38,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 20,
+        "deliveryPrice": 4,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "bulletin": "欢迎光临，用餐高峰期请提前下单，谢谢。",
+        "supports": [
+          {
+            "type": 0,
+            "description": "在线支付满28减5"
+          }
+        ],
+        "avatar": "//fuss10.elemecdn.com/3/de/fb6de3a42da7aadf44f18656eb717png.png?imageMogr/format/webp/thumbnail/150x/",
+        "pics": [
+          "https://p0.meituan.net/deal/0c7becdc6ad3d73252561503be6b37d486141.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p1.meituan.net/deal/9c5113b89f9d98fc31387d5eac8cfef690889.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p1.meituan.net/deal/9ddd4a8c6417220175b5fe9f0a7aebcf101983.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p0.meituan.net/deal/c168d668e6a07177871b888b26926b0489317.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+          "https://p0.meituan.net/deal/26ba8002ac0532ce8f65e83f771a584867203.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        ],
+        "infos": [
+          "该商家支持发票,请下单写好发票抬头",
+          "品类:其他菜系,包子粥店",
+          "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+          "营业时间:10:00-20:30"
+        ]
+      }
+    ]
+  }
+}
