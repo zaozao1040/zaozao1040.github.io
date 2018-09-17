@@ -214,7 +214,7 @@ function updateDynamicBg(){
         }
 
     }
-    console.log(shootStars.length);
+    //console.log(shootStars.length);
 }
 
 function prepareRotateStars(){
