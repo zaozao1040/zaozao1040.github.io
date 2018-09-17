@@ -45,9 +45,9 @@ function drawPublicElements(cxt){
     cxt.shadowOffsetY=20;
     cxt.shadowBlur=4;
     cxt.strokeStyle=fontStyle;
-    cxt.strokeText('距离去西安还剩下：',100,60,fontWidth);
+    cxt.strokeText('距离？？还剩下：',100,60,fontWidth);
     cxt.fillStyle='Lavender';
-    cxt.fillText('距离去西安还剩下：',100,60,fontWidth);
+    cxt.fillText('距离？？还剩下：',100,60,fontWidth);
     cxt.restore();
 
     //歌词
