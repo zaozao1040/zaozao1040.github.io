@@ -1,5 +1,5 @@
 var WINDOW_WIDTH = screen.width;
-var WINDOW_HEIGHT = screen.width;
+var WINDOW_HEIGHT = screen.height;
 
 var points=[];
 var points1=[];
