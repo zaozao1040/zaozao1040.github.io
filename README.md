@@ -15,7 +15,7 @@
   pc浏览器访问：<br />
     https://zaozao1040.github.io/firecracker/index.html <br />
   或者微信扫一扫：<br />
-    ![Alt text](https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/firecracker/erweima.png)
+    ![Alt text](https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/firecracker/erweima.png) 
 
 - 书法艺术学校管理系统 [前端+后端+数据库+服务器]<br />
   github地址：<br />
