@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>倒计时</title>
+<style>
+    li{
+        list-style-type: none;
+        float: right;
+        width: 240px;
+        text-align: center;
+        line-height: 30px;
+        font-family: 微软雅黑;
+    }
+</style>
+
+
+</head>
+<body>
+<div class="col-md-8 col-md-offset-2">
+
+    <audio autoplay="autoplay" controls="controls" loop="loop" preload="auto" src="{{asset('mp3/dengziqi.m4a')}}">
+        你的浏览器不支持音乐播放，请使用chrome
+    </audio>
+
+    <canvas id="canvas_static" style="border: 0px solid #aaaaaa;display: block;margin: 0 auto;position: absolute;top: 5px;z-index: 0">
+        你的浏览器不支持，请使用chrome
+    </canvas>
+    <canvas id="canvas_dynamic" style="border: 0px solid #aaaaaa;display: block;margin: 0 auto;position: absolute;top: 5px;z-index: 1">
+        你的浏览器不支持，请使用chrome
+    </canvas>
+    <canvas id="canvas" style="border: 0px solid #aaaaaa;display: block;margin: 0 auto;position: absolute;top: 5px;z-index: 2">
+        你的浏览器不支持，请使用chrome
+    </canvas>
+
+    <script src="./digit.js"></script>
+    <script src="./countdown.js"></script>
+</div>
+</body>
+</html>
