@@ -1186,7 +1186,7 @@ button.swiper-pagination-bullet {
   background-image: url(url) no-repeat;
 } */
 .app-js-public-footor---hock---Y29l9_0 {
-  height: 4.25rem;
+  height: 5rem;
 }
 .app-js-public-footor---footer---2H6el_0 {
   display: flex;
@@ -2892,6 +2892,17 @@ hr {
   top: 0.5rem;
   left: 0.5rem;
 }
+.app-js-home-city---wrapper---2FhJk_0 .app-js-home-city---citiesSearchResult---1uc85_0 {
+  margin: 0.25rem;
+  padding: 0.125rem;
+  font-size: 0.625rem;
+  margin: 0.25rem 0.5rem 0 0.5rem;
+}
+.app-js-home-city---wrapper---2FhJk_0 .app-js-home-city---citiesSearchResult---1uc85_0 li {
+  padding: 0.25rem 0 0.25rem 0;
+  font-size: 0.625rem;
+  border-bottom: 0.025rem #90878745 solid;
+}
 .app-js-home-city---wrapper---2FhJk_0 .app-js-home-city---citiesScroll---3udcN_0 {
   overflow: hidden;
   position: absolute;
@@ -3540,6 +3551,183 @@ hr {
   border-top-right-radius: 1rem;
   border-bottom-right-radius: 1rem;
   background: #fff;
+}
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+center,
+u,
+b,
+i {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+}
+body {
+  line-height: 1;
+  background: #fff;
+}
+:focus {
+  outline: 0;
+}
+ol,
+ul {
+  list-style: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+}
+blockquote,
+q {
+  quotes: "";
+}
+input,
+textarea {
+  margin: 0;
+  padding: 0;
+}
+hr {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: #000;
+  background-color: #000;
+  height: 0.025rem;
+}
+.app-js-mine-reward---router-link-exact-active---3AOIc_0 p {
+  color: red !important;
+}
+
+/* @mixin bg-image(url) {
+  background-image: url(url) no-repeat;
+} */
+.app-js-mine-reward---rewardheader---IL-vL_0 {
+  padding: 0 1rem 0.75rem 1rem;
+  background-color: #0085ff;
+  position: relative;
+  top: -0.025rem;
+}
+.app-js-mine-reward---rewardheader---IL-vL_0 > h1 {
+  font-size: 1.5rem;
+  color: #fff;
+}
+.app-js-mine-reward---rewardheader---IL-vL_0 > h4 {
+  padding-top: 0.25rem;
+  font-size: 0.5rem;
+  color: #fff;
+}
+.app-js-mine-reward---rewardcontent---3vteZ_0 {
+  overflow: hidden;
+}
+.app-js-mine-reward---rewardcontent---3vteZ_0 > li {
+  padding: 0.5rem;
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+  border: #5f5f5f29 0.025rem solid;
+}
+.app-js-mine-reward---rewardcontent---3vteZ_0 > li > h4 {
+  font-size: 0.625rem;
+}
+.app-js-mine-reward---rewardcontent---3vteZ_0 > li > div > h5 {
+  display: inline-block;
+  padding-top: 0.25rem;
+  font-size: 0.625rem;
+  color: red;
+  vertical-align: bottom;
+}
+.app-js-mine-reward---rewardcontent---3vteZ_0 > li > div > h5 > span {
+  color: #93999f;
+}
+.app-js-mine-reward---rewardcontent---3vteZ_0 > li > div .app-js-mine-reward---btn---1e3ZN_0 {
+  padding: 0;
+  background-color: #F04752;
+  border-radius: 0.125rem;
+  border: 0.025rem solid #F04752;
+  font-size: 0.5rem;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  height: 0.625rem;
+  line-height: 0.625rem;
+  display: inline-block;
+}
+.app-js-mine-reward---rewardcontent---3vteZ_0 > li img {
+  width: 100%;
+}
+.app-js-mine-reward---chakan---3O84r_0 {
+  padding: 0.75rem;
+  font-size: 0.625rem;
+  text-align: center;
+  color: #93999f;
 }/* @mixin bg-image(url) {
   background-image: url(url) no-repeat;
 } */

@@ -15,7 +15,7 @@
           "money": 4,
           "min": 10,
           "des": "限品类：果蔬生鲜、商店超市",
-          "href" : "/sellers/shuiguo"
+          "href": "/sellers/shuiguo"
         },
         {
           "type": 2,
@@ -26,7 +26,7 @@
           "money": 4,
           "min": 10,
           "des": "限品类：果蔬生鲜、商店超市",
-          "href" : "/sellers/chufangshengxian"
+          "href": "/sellers/chufangshengxian"
         },
         {
           "type": 1,
@@ -37,13 +37,69 @@
           "money": 3,
           "min": 10,
           "des": "跑腿代购",
-          "href" : "/sellers/paotuidaigou"
+          "href": "/sellers/paotuidaigou"
         }
       ],
       "reward": {
-        "num" : 14,
-        "expire" : "2019-12-10",
-        "city" : "苏州"
+        "num": 14,
+        "expire": "2019-12-10",
+        "city": "苏州",
+        "exchanges": [
+          {
+            "img": "https://fuss10.elemecdn.com/c/66/89cc6ef54261bbd98b94deeff2546jpeg.jpeg?imageMogr/format/webp/thumbnail/!315x195r/gravity/Center/crop/315x195/",
+            "corner_marker": "限时优惠",
+            "image_hash": "c6689cc6ef54261bbd98b94deeff2546jpeg",
+            "original_price": 3,
+            "points_required": 90,
+            "title": "3元饿了么红包",
+            "url": "https://h5.ele.me/exchange/?dbredirect=https%3A%2F%2Fgoods.m.duiba.com.cn%2Fmobile%2FappItemDetail%3FappItemId%3D1900411"
+          },
+          {
+            "img": "https://fuss10.elemecdn.com/5/78/5c1ca7ceca079926933ca418c9eb7jpeg.jpeg?imageMogr/format/webp/thumbnail/!315x195r/gravity/Center/crop/315x195/",
+            "corner_marker": "特价换购",
+            "image_hash": "5785c1ca7ceca079926933ca418c9eb7jpeg",
+            "original_price": 99,
+            "points_required": 9,
+            "title": "扫地机器人",
+            "url": "https://h5.ele.me/exchange/?dbredirect=https%3A%2F%2Factivity.m.duiba.com.cn%2Fmobile%2FappItemDetail%3FappItemId%3D1990028"
+          },
+          {
+            "img": "https://fuss10.elemecdn.com/7/ad/f0132ee0fee6c57253ada4573364ejpeg.jpeg?imageMogr/format/webp/thumbnail/!315x195r/gravity/Center/crop/315x195/",
+            "corner_marker": "特价换购",
+            "image_hash": "7adf0132ee0fee6c57253ada4573364ejpeg",
+            "original_price": 129,
+            "points_required": 9,
+            "title": "机械手感键鼠套装",
+            "url": "https://h5.ele.me/exchange/?dbredirect=https%3A%2F%2Fgoods.m.duiba.com.cn%2Fmobile%2FappItemDetail%3FappItemId%3D1954182"
+          },
+          {
+            "img": "https://fuss10.elemecdn.com/b/5f/f1014b884c14aafde894e985f1116jpeg.jpeg?imageMogr/format/webp/thumbnail/!315x195r/gravity/Center/crop/315x195/",
+            "corner_marker": "特价换购",
+            "image_hash": "b5ff1014b884c14aafde894e985f1116jpeg",
+            "original_price": 249,
+            "points_required": 9,
+            "title": "无线蓝牙耳机",
+            "url": "https://h5.ele.me/exchange/?dbredirect=https%3A%2F%2Factivity.m.duiba.com.cn%2Fmobile%2FappItemDetail%3FappItemId%3D1990037"
+          },
+          {
+            "img": "https://fuss10.elemecdn.com/7/fe/e0e85512dfb751b55032520285584jpeg.jpeg?imageMogr/format/webp/thumbnail/!315x195r/gravity/Center/crop/315x195/",
+            "corner_marker": "特价换购",
+            "image_hash": "7fee0e85512dfb751b55032520285584jpeg",
+            "original_price": 99,
+            "points_required": 9,
+            "title": "30包箱装原木抽纸",
+            "url": "https://h5.ele.me/exchange/?dbredirect=https%3A%2F%2Fgoods.m.duiba.com.cn%2Fmobile%2FappItemDetail%3FappItemId%3D1851842"
+          },
+          {
+            "img": "https://fuss10.elemecdn.com/7/f4/14489291108fbc3e6c905d1b13bdbjpeg.jpeg?imageMogr/format/webp/thumbnail/!315x195r/gravity/Center/crop/315x195/",
+            "corner_marker": "特价换购",
+            "image_hash": "7f414489291108fbc3e6c905d1b13bdbjpeg",
+            "original_price": 139,
+            "points_required": 9,
+            "title": "4D充电剃须刀",
+            "url": "https://h5.ele.me/exchange/?dbredirect=https%3A%2F%2Fgoods.m.duiba.com.cn%2Fmobile%2FappItemDetail%3FappItemId%3D1894301"
+          }
+        ]
       }
     }
   }
