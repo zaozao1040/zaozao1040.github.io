@@ -4,7 +4,9 @@
     https://zaozao1040.github.io/eleme/dist/#/ <br />
   或者微信扫一扫：<br />
     ![Alt text](https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/eleme/erweima.png)
-
+  项目github地址：<br />
+    https://github.com/zaozao1040/eleme
+    
 - countdown [cavans动画：酷炫倒计时]<br />
   pc浏览器访问：<br />
     https://zaozao1040.github.io/countdown/index.html <br />
