@@ -51,12 +51,12 @@ function drawPublicElements(cxt){
     cxt.restore();
 
     //歌词
-    cxt.save();
+/*    cxt.save();
     cxt.fillStyle='white';
     cxt.fillText('夜空中明亮的醒 请照亮我前行：',50,WINDOW_HEIGHT-90,fontWidth);
     cxt.fillText('我祈祷拥有一颗透明的心灵 和会流泪的眼睛',50,WINDOW_HEIGHT-70,fontWidth);
     cxt.fillText('给我再去相信的勇气 越过谎言拥抱你',50,WINDOW_HEIGHT-50,fontWidth);
-    cxt.restore();
+    cxt.restore();*/
 }
 
 
