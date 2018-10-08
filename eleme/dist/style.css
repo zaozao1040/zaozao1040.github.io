@@ -670,9 +670,7 @@ button.swiper-pagination-bullet {
   left: 0;
   right: 0;
   bottom: 0;
-  background-repeat: no-repeat;
-  background-image: url(app/js/datashow/img/page_bg.b48f53f.png);
-  background-size: 100% 100%;
+  background-color: white;
 }
 .app-js-datashow-datashow_home---wrapper---3-YFe_0 h4 {
   width: 100%;
@@ -681,7 +679,7 @@ button.swiper-pagination-bullet {
   background-size: 100% 100%;
   text-align: center;
   line-height: 6.875rem;
-  color: #1500ec;
+  color: #ffeb3b;
   font-family: serif;
 }
 .app-js-datashow-datashow_home---wrapper---3-YFe_0 img {
