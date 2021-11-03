@@ -7,7 +7,7 @@ var RADIUS = 8;
 var MARGIN_TOP = 100;
 var MARGIN_LEFT = 140;
 
-const endTime = new Date(2021,1,30,0,0,0);
+const endTime = new Date(2021,12,30,0,0,0);
 var curShowTimeSeconds = 0
 
 var balls = [];
